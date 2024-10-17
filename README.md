@@ -1,50 +1,28 @@
-# Guilherme - Jovem Programador
+<h2 align="center">Olá, sou o Guilherme! </h2>
 
-Olá, Sou o Guilherme!
-=====================
+<div align="center">
+  <img src="https://github-readme-stats.sigma-five.vercel.app/api?username=guilherme-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=guilherme-dev&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-Um garoto de 11 anos com o sonho de ser programador.
+<h5>Meu Tech Stack:</h5>
+<p align="center">
+  <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img height="30px" src="https://raw.githubusercontent.com/devicon/devicon/master/icons/css3/css3-original.svg" />
+  <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img height="30px" src="https://github.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img height="30px" src="https://raw.githubusercontent.com/devicon/devicon/master/icons/linux/linux-original.svg" />
+  <img height="30px" src="https://raw.githubusercontent.com/devicon/devicon/master/icons/godot/godot-original.svg" />
+  <img height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+</p>
 
-> "Comece agora: não espere pelo momento perfeito, comece hoje, com o que tem."
+**Amando criar jogos e explorar o mundo da programação! **
 
----
+**Meus projetos:**
+* [Link para seu primeiro projeto]
+* [Link para outro projeto]
 
-## Ferramentas que estou estudando
-
-- **Git**
-- **Python**
-- **JavaScript**
-- **CSS**
-- **HTML**
-- **Docker**
-- **Linux**
-- **Godot 4**
-- **MySQL**
-
----
-
-## Áreas que pretendo trabalhar
-
-- **Game Develop**
-- **Criação de Aplicações**
-- **Machine Learning**
-- **Front-end**
-- **Freelancer**
-
----
-
-## Meus Projetos
-
-Ainda não tenho muitos projetos, mas todos os projetos serão publicados aqui com links de download.
-
----
-
-## Sobre Mim
-
-Sou apaixonado por tecnologia e programação, e estou sempre buscando aprender mais. Embora esteja apenas começando, estou muito animado para ver onde essa jornada me levará.
-
-Se você é um jovem programador ou está interessado em programação, fique à vontade para acompanhar meu progresso por aqui. Vou compartilhar o que aprendo e projetos que estou desenvolvendo.
-
----
-
-Desenvolvido por Guilherme
+**Contato:**
+* GitHub: [seu_github]
+* E-mail: [seu_email]
