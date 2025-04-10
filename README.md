@@ -2,6 +2,6 @@
 - 👀 I'm interested in: Game Development, technology, and Linux.
 - 🌱 I'm currently learning: Game Development.
 - 😁 Fun fact: I'm a young Brazilian kid, 12 years old.
-- 🎯 My objective is: Become a freelance game developer or an employer (but I prefer freelancing).
-- 💻 My system is: Dual-boot with Debian (Modified).
+- 🎯 My objective is: Become a freelance game developer or an employer, and i would like to create a my business for gaming developer.
+- 💻 My system is: Lubuntu (Modified).
 - 🛠 I use to create games: Unity Engine, Pixelorama and Blender3D.
